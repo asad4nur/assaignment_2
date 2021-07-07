@@ -3,11 +3,12 @@
 }
 .header-color{
     background-color: rgb(255 251 240);
+    border: 0px;
 }
 .header-image img{
     width: 500px;
 }
-.banner-text h1{
+.banner-text{
     font-size: 70px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
@@ -15,7 +16,7 @@
     padding-right: 8px;
     color: white;
 }
-.button{
+.order-button{
     border-radius: 10px;
     color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -54,4 +55,10 @@
     font-family: Arial, Helvetica, sans-serif;
     font-size: 50px;
     padding: 60px 0px 50px 0px;
+}
+.featur-icon img{
+    width: 100px;
+}
+.feature-image img{
+    width: 700px;
 }
