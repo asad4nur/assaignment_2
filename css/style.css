@@ -1,0 +1,57 @@
+.nav-logo img{
+ width: 300px;
+}
+.header-color{
+    background-color: rgb(255 251 240);
+}
+.header-image img{
+    width: 500px;
+}
+.banner-text h1{
+    font-size: 70px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.shopping{
+    padding-right: 8px;
+    color: white;
+}
+.button{
+    border-radius: 10px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 0px;
+    background-color: #0dcaf0;
+    padding: 20px 25px 20px 25px;
+    font-size: 20px;
+}
+.card-image img{
+    border-radius: 30px;
+}
+.card-bottom{
+    background-color: white;
+    border: 0;
+}
+.card-column{
+    border: 0px;
+    border-radius: 30px;
+}
+.services{
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+.service-card{
+    margin: 0px;
+    padding: 0px;
+    margin-top: 20px;
+}
+.card-column h2{
+    font-weight: 700;
+    font-size: 50px;
+    color: #a4bc46;
+}
+.service-title h1{
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    padding: 60px 0px 50px 0px;
+}
